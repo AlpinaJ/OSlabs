@@ -1,0 +1,1000 @@
+ 1008  sudo make 
+ 1009  ./websocket-client-mbedtls-exe 
+ 1010  sudo make 
+ 1011  ./websocket-client-mbedtls-exe 
+ 1012  sudo make 
+ 1013  ./websocket-client-mbedtls-exe 
+ 1014  sudo make 
+ 1015  ./websocket-client-mbedtls-exe 
+ 1016  sudo make 
+ 1017  ./websocket-client-mbedtls-exe 
+ 1018  sudo make 
+ 1019  ./websocket-client-mbedtls-exe 
+ 1020  sudo make 
+ 1021  ./websocket-client-mbedtls-exe 
+ 1022  sudo make 
+ 1023  ./websocket-client-mbedtls-exe 
+ 1024  sudo make 
+ 1025  ./websocket-client-mbedtls-exe 
+ 1026  sudo make 
+ 1027  ./websocket-client-mbedtls-exe 
+ 1028  sudo make 
+ 1029  ./websocket-client-mbedtls-exe 
+ 1030  sudo make 
+ 1031  ./websocket-client-mbedtls-exe 
+ 1032  sudo make 
+ 1033  ./websocket-client-mbedtls-exe 
+ 1034  sudo make 
+ 1035  ./websocket-client-mbedtls-exe 
+ 1036  sudo make 
+ 1037  ./websocket-client-mbedtls-exe 
+ 1038  sudo make 
+ 1039  ./websocket-client-mbedtls-exe 
+ 1040  sudo make 
+ 1041  ./websocket-client-mbedtls-exe 
+ 1042  sudo make 
+ 1043  ./websocket-client-mbedtls-exe 
+ 1044  sudo make 
+ 1045  ./websocket-client-mbedtls-exe 
+ 1046  sudo make 
+ 1047  ./websocket-client-mbedtls-exe 
+ 1048  sudo make 
+ 1049  ./websocket-client-mbedtls-exe 
+ 1050  sudo make 
+ 1051  ./websocket-client-mbedtls-exe 
+ 1052  sudo make 
+ 1053  ./websocket-client-mbedtls-exe 
+ 1054  sudo make 
+ 1055  ./websocket-client-mbedtls-exe 
+ 1056  sudo make 
+ 1057  ./websocket-client-mbedtls-exe 
+ 1058  sudo make 
+ 1059  ./websocket-client-mbedtls-exe 
+ 1060  sudo make 
+ 1061  ./websocket-client-mbedtls-exe 
+ 1062  sudo make 
+ 1063  ./websocket-client-mbedtls-exe 
+ 1064  sudo make 
+ 1065  ./websocket-client-mbedtls-exe 
+ 1066  sudo make 
+ 1067  ./websocket-client-mbedtls-exe 
+ 1068  sudo make 
+ 1069  ./websocket-client-mbedtls-exe 
+ 1070  sudo make 
+ 1071  ./websocket-client-mbedtls-exe 
+ 1072  sudo make 
+ 1073  ./websocket-client-mbedtls-exe 
+ 1074  sudo make 
+ 1075  ./websocket-client-mbedtls-exe 
+ 1076  sudo make 
+ 1077  ./websocket-client-mbedtls-exe 
+ 1078  sudo make 
+ 1079  ./websocket-client-mbedtls-exe 
+ 1080  sudo make 
+ 1081  ./websocket-client-mbedtls-exe 
+ 1082  sudo make 
+ 1083  ./websocket-client-mbedtls-exe 
+ 1084  sudo make 
+ 1085  ./websocket-client-mbedtls-exe 
+ 1086  sudo make 
+ 1087  ./websocket-client-mbedtls-exe 
+ 1088  sudo make 
+ 1089  ./websocket-client-mbedtls-exe 
+ 1090  sudo make 
+ 1091  ./websocket-client-mbedtls-exe 
+ 1092  sudo make 
+ 1093  ./websocket-client-mbedtls-exe 
+ 1094  sudo make 
+ 1095  ./websocket-client-mbedtls-exe 
+ 1096  sudo make 
+ 1097  ./websocket-client-mbedtls-exe 
+ 1098  sudo make 
+ 1099  ./websocket-client-mbedtls-exe 
+ 1100  sudo make 
+ 1101  ./websocket-client-mbedtls-exe 
+ 1102  sudo make 
+ 1103  ./websocket-client-mbedtls-exe 
+ 1104  sudo make 
+ 1105  ./websocket-client-mbedtls-exe 
+ 1106  sudo make 
+ 1107  ./websocket-client-mbedtls-exe 
+ 1108  sudo make 
+ 1109  ./websocket-client-mbedtls-exe 
+ 1110  sudo make 
+ 1111  ./websocket-client-mbedtls-exe 
+ 1112  sudo make 
+ 1113  ./websocket-client-mbedtls-exe 
+ 1114  sudo make 
+ 1115  ./websocket-client-mbedtls-exe 
+ 1116  sudo make 
+ 1117  ./websocket-client-mbedtls-exe 
+ 1118  sudo make 
+ 1119  ./websocket-client-mbedtls-exe 
+ 1120  sudo make 
+ 1121  ./websocket-client-mbedtls-exe 
+ 1122  sudo make 
+ 1123  ./websocket-client-mbedtls-exe 
+ 1124  cd build
+ 1125  sudo make 
+ 1126  ./websocket-client-mbedtls-exe 
+ 1127  sudo make 
+ 1128  ./websocket-client-mbedtls-exe 
+ 1129  sudo make 
+ 1130  ./websocket-client-mbedtls-exe 
+ 1131  sudo make 
+ 1132  ./websocket-client-mbedtls-exe 
+ 1133  sudo make 
+ 1134  ./websocket-client-mbedtls-exe 
+ 1135  sudo make 
+ 1136  ./websocket-client-mbedtls-exe 
+ 1137  sudo make 
+ 1138  ./websocket-client-mbedtls-exe 
+ 1139  sudo make 
+ 1140  ./websocket-client-mbedtls-exe 
+ 1141  sudo make 
+ 1142  ./websocket-client-mbedtls-exe 
+ 1143  sudo make 
+ 1144  ./websocket-client-mbedtls-exe 
+ 1145  sudo make 
+ 1146  ./websocket-client-mbedtls-exe 
+ 1147  sudo make 
+ 1148  ./websocket-client-mbedtls-exe 
+ 1149  sudo make 
+ 1150  ./websocket-client-mbedtls-exe 
+ 1151  sudo make 
+ 1152  ./websocket-client-mbedtls-exe 
+ 1153  sudo make 
+ 1154  ./websocket-client-mbedtls-exe 
+ 1155  sudo make 
+ 1156  ./websocket-client-mbedtls-exe 
+ 1157  sudo make 
+ 1158  ./websocket-client-mbedtls-exe 
+ 1159  sudo make 
+ 1160  ./websocket-client-mbedtls-exe 
+ 1161  sudo make 
+ 1162  ./websocket-client-mbedtls-exe 
+ 1163  sudo make 
+ 1164  ./websocket-client-mbedtls-exe 
+ 1165  sudo make 
+ 1166  clear
+ 1167  sudo make 
+ 1168  ./websocket-client-mbedtls-exe 
+ 1169  sudo make 
+ 1170  clear
+ 1171  sudo make 
+ 1172  ./websocket-client-mbedtls-exe 
+ 1173  sudo make 
+ 1174  ./websocket-client-mbedtls-exe 
+ 1175  sudo make 
+ 1176  ./websocket-client-mbedtls-exe 
+ 1177  sudo make 
+ 1178  ./websocket-client-mbedtls-exe 
+ 1179  sudo make 
+ 1180  ./websocket-client-mbedtls-exe 
+ 1181  sudo make 
+ 1182  ./websocket-client-mbedtls-exe 
+ 1183  cd buil
+ 1184  cd build
+ 1185  sudo make 
+ 1186  ./websocket-client-mbedtls-exe 
+ 1187  sudo make 
+ 1188  ./websocket-client-mbedtls-exe 
+ 1189  sudo make 
+ 1190  ./websocket-client-mbedtls-exe 
+ 1191  sudo make 
+ 1192  ./websocket-client-mbedtls-exe \
+ 1193  ./websocket-client-mbedtls-exe 
+ 1194  ./websocket-client-mbedtls-exe \
+ 1195  ./websocket-client-mbedtls-exe \
+ 1196  ./websocket-client-mbedtls-exe 
+ 1197  sudo make 
+ 1198  clear
+ 1199  sudo make 
+ 1200  ./websocket-client-mbedtls-exe 
+ 1201  sudo make 
+ 1202  ./websocket-client-mbedtls-exe 
+ 1203  sudo make 
+ 1204  ./websocket-client-mbedtls-exe 
+ 1205  sudo make 
+ 1206  ./websocket-client-mbedtls-exe 
+ 1207  sudo make 
+ 1208  ./websocket-client-mbedtls-exe 
+ 1209  sudo make 
+ 1210  ./websocket-client-mbedtls-exe 
+ 1211  sudo make 
+ 1212  ./websocket-client-mbedtls-exe 
+ 1213  git add .
+ 1214  git commit -m "add 2 new stocks"
+ 1215  git push
+ 1216  cd build
+ 1217  sudo make 
+ 1218  ./websocket-client-mbedtls-exe 
+ 1219  sudo make 
+ 1220  ./websocket-client-mbedtls-exe 
+ 1221  git add .
+ 1222  git commmit -m "2 new stocks added"
+ 1223  git commit -m "2 new stocks added"
+ 1224  git push
+ 1225  git push -f
+ 1226  gcc main.cpp -o main.exe
+ 1227  ls
+ 1228  cd De
+ 1229  cd Desktop/
+ 1230  gcc main.cpp -o main.exe
+ 1231  sudo -i 
+ 1232  sudo rfkill unblock wifi
+ 1233  sudo ifconfig wlan0 up
+ 1234  sudo rfkill list
+ 1235  sudo rfkill unblock all
+ 1236  sudo rfkill list
+ 1237  udo vim /var/lib/NetworkManager/NetworkManager.state
+ 1238  sudo vim /var/lib/NetworkManager/NetworkManager.state
+ 1239  sudo reboot
+ 1240  sudo apt-get install git build-essential
+ 1241  git clone https://github.com/rtlwifi-linux/rtlwifi-next.git
+ 1242  cd rtlwifi-next
+ 1243  make
+ 1244  sudo make
+ 1245  sudo make install
+ 1246  echo "options rtl8822be ips=N" | sudo tee /etc/modprobe.d/rtl8822be.conf
+ 1247  sudo sed -i 's/wifi.powersave = 3/wifi.powersave = 2/' /etc/NetworkManager/conf.d/default-wifi-powersave-on.conf
+ 1248  clear
+ 1249  lspci -knn | grep Net -A2
+ 1250  sudo apt-get install bcmwl-kernel-source
+ 1251  sudo apt-get purge bcmwl-kernel-source broadcom-sta-common broadcom-sta-source
+ 1252  sudo apt-get install b43-fwcutter firmware-b43-installer
+ 1253  cd build
+ 1254  sudo make 
+ 1255  ./websocket-client-mbedtls-exe 
+ 1256  sudo make 
+ 1257  clear
+ 1258  sudo make 
+ 1259  ./websocket-client-mbedtls-exe 
+ 1260  sudo make 
+ 1261  ./websocket-client-mbedtls-exe 
+ 1262  sudo make 
+ 1263  ./websocket-client-mbedtls-exe 
+ 1264  sudo make 
+ 1265  ./websocket-client-mbedtls-exe 
+ 1266  sudo make 
+ 1267  ./websocket-client-mbedtls-exe 
+ 1268  sudo make 
+ 1269  ./websocket-client-mbedtls-exe 
+ 1270  sudo make 
+ 1271  ./websocket-client-mbedtls-exe 
+ 1272  sudo make 
+ 1273  ./websocket-client-mbedtls-exe 
+ 1274  sudo make 
+ 1275  ./websocket-client-mbedtls-exe 
+ 1276  sudo make 
+ 1277  ./websocket-client-mbedtls-exe 
+ 1278  sudo make 
+ 1279  ./websocket-client-mbedtls-exe 
+ 1280  sudo make 
+ 1281  ./websocket-client-mbedtls-exe 
+ 1282  sudo make 
+ 1283  ./websocket-client-mbedtls-exe 
+ 1284  sudo make 
+ 1285  ./websocket-client-mbedtls-exe 
+ 1286  sudo make 
+ 1287  ./websocket-client-mbedtls-exe 
+ 1288  sudo make 
+ 1289  ./websocket-client-mbedtls-exe 
+ 1290  sudo make 
+ 1291  clear
+ 1292  sudo make 
+ 1293  ./websocket-client-mbedtls-exe 
+ 1294  sudo make 
+ 1295  ./websocket-client-mbedtls-exe 
+ 1296  sudo make 
+ 1297  ./websocket-client-mbedtls-exe 
+ 1298  sudo make 
+ 1299  ./websocket-client-mbedtls-exe 
+ 1300  sudo make 
+ 1301  ./websocket-client-mbedtls-exe 
+ 1302  sudo make 
+ 1303  ./websocket-client-mbedtls-exe 
+ 1304  sudo systemctl restart network-manager.service
+ 1305  <body class="question-page unified-theme" data-gr-c-s-loaded="true">
+ 1306  <header class="top-bar js-top-bar top-bar__network _fixed">
+ 1307  <ol class="-secondary js-secondary-topbar-links drop-icons-responsively user-logged-out the-js-is-handling-responsiveness" role="presentation">
+ 1308  your communities            </h3>
+ 1309  <a href="https://askubuntu.com/users/signup?ssrc=site_switcher&amp;returnurl=https%3a%2f%2faskubuntu.com%2fquestions%2f761180%2fwifi-doesnt-work-after-suspend-after-16-04-upgrade%2f761220" class="login-link js-gps-track" data-gps-track="site_switcher.click({ item_type:10 })">Sign up</a> or <a href="https://askubuntu.com/users/login?ssrc=site_switcher&amp;returnurl=https%3a%2f%2faskubuntu.com%2fquestions%2f761180%2fwifi-doesnt-work-after-suspend-after-16-04-upgrade%2f761220" class="login-link js-gps-track" data-gps-track="site_switcher.click({ item_type:11 })">log in</a> to customize your list.
+ 1310  </ol>
+ 1311  </header>
+ 1312  <aside class="s-hero s-hero__dark js-dismissable-hero" role="region" aria-hidden="false">
+ 1313  </script>
+ 1314  <div id="left-sidebar" data-is-here-when="md lg" class="left-sidebar js-pinned-left-sidebar">
+ 1315  Home        </a>
+ 1316  Questions        </a>
+ 1317  Tags        </a>
+ 1318  Users        </a>
+ 1319  Unanswered        </a>
+ 1320  </div>
+ 1321  <div itemprop="mainEntity" itemscope="" itemtype="http://schema.org/Question">
+ 1322  <div class="pl8 aside-cta grid--cell print:d-none">
+ 1323  </div>
+ 1324  <div class="question" data-questionid="761180" id="question">
+ 1325  }</style>
+ 1326  <div class="js-voting-container grid fd-column ai-stretch gs4 fc-black-200" data-post-id="761180">
+ 1327  </div>
+ 1328  <div class="postcell post-layout--right">
+ 1329  <p>This particular version of the "doesn't work after suspend" came after upgrading to 16.04. It seems that the upgrade includes a Wicd applet (added to Metacity Classic Gnome task bar alongside regular network icon), but doesn't seem to work after a suspend. A <code>sudo service network-manager restart</code> duplicates this problem. It takes a complete reboot to get Wifi going again. Any ideas why?</p>
+ 1330  <div class="post-menu"><a href="/q/761180" title="short permalink to this question" class="short-link" itemprop="url" id="link-post-761180">share</a><span class="lsep">|</span><a href="/posts/761180/edit" class="suggest-edit-post" title="">improve this question</a></div>
+ 1331  <div class="user-info ">
+ 1332  </div>
+ 1333  <div id="tabs">
+ 1334  <a name="761220"></a>
+ 1335  <div id="answer-761220" class="answer" data-answerid="761220" itemprop="suggestedAnswer" itemscope="" itemtype="http://schema.org/Answer" style="">
+ 1336  <div class="js-voting-container grid fd-column ai-stretch gs4 fc-black-200" data-post-id="761220">
+ 1337  </div>
+ 1338  <div class="answercell post-layout--right">
+ 1339  <p>16.04 runs on systemd. Try the following:</p>
+ 1340  <pre><code>sudo systemctl restart network-manager.service
+ 1341  </code></pre>
+ 1342  <p>If this works, you can create a script to automate it.</p>
+ 1343  <p>Open a terminal and type the following:</p>
+ 1344  <p><code>sudo nano /etc/systemd/system/wifi-resume.service</code> Now paste the script in there with a right click. Exit with CTRL + X and press Y to save. Now to activate it: <code>sudo systemctl enable wifi-resume.service</code></p>
+ 1345  <p>Script:</p>
+ 1346  <pre><code>#/etc/systemd/system/wifi-resume.service
+ 1347  #sudo systemctl enable wifi-resume.service
+ 1348  [Unit]
+ 1349  Description=Restart networkmanager at resume
+ 1350  After=suspend.target
+ 1351  After=hibernate.target
+ 1352  After=hybrid-sleep.target
+ 1353  [Service]
+ 1354  Type=oneshot
+ 1355  ExecStart=/bin/systemctl restart network-manager.service
+ 1356  [Install]
+ 1357  WantedBy=suspend.target
+ 1358  WantedBy=hibernate.target
+ 1359  WantedBy=hybrid-sleep.target
+ 1360  </code></pre>
+ 1361  <p>Hope this helps. It works on my laptop.</p>
+ 1362  <div class="post-menu"><a href="/a/761220" title="short permalink to this answer" class="short-link" itemprop="url" id="link-post-761220">share</a><span class="lsep">|</span><a href="/posts/761220/edit" class="suggest-edit-post" title="">improve this answer</a></div>                    </div>
+ 1363  <div class="user-info ">
+ 1364  </div>
+ 1365  <div id="dfp-mlb" class="everyonelovesstackoverflow everyoneloves__mid-leaderboard" style="display: none;"></div>
+ 1366  <a name="893823"></a>
+ 1367  <div id="answer-893823" class="answer" data-answerid="893823" itemprop="suggestedAnswer" itemscope="" itemtype="http://schema.org/Answer">
+ 1368  <div class="js-voting-container grid fd-column ai-stretch gs4 fc-black-200" data-post-id="893823">
+ 1369  </div>
+ 1370  <div class="answercell post-layout--right">
+ 1371  <p>@147pm Did you ever get this working?</p>
+ 1372  <p>I found I had a quite similar problem, though I am on Kubuntu 16.10 (KDE-based, not Gnome), and with an HP ProBook laptop. And, unlike yourself, it wasn't my Wifi which died after suspend/wakeup, but my ethernet port.
+ 1373  Still, I wonder if they are related.</p>
+ 1374  <p>I also do see that you do not have the problem under KDE. But I would be interested to know if the solution below does help under Gnome, as the solution is not based upon window manager, desktop environment or applets.</p>
+ 1375  <p>First, just to confirm that restarting the network manager service..</p>
+ 1376  <pre><code>$ sudo systemctl restart network-manager.service
+ 1377  </code></pre>
+ 1378  <p>did not work for me.</p>
+ 1379  <p>However, I did find an answer that worked, thanks to buzhidao's question and info at <a href="https://askubuntu.com/questions/855699/cant-connect-to-internet-after-suspend">can't connect to internet after suspend</a> and GAD3R's comment there.</p>
+ 1380  <p>Using their info, I found that first researching which ethernet hardware and driver/module I am running, and then removing and reloading that module, did work for me (though it did not for buzhidao):</p>
+ 1381  <p>Wifi:</p>
+ 1382  <pre><code>$ lspci -knn | grep Net -A2
+ 1383  </code></pre>
+ 1384  <p>Ethernet:</p>
+ 1385  <pre><code>$ lspci -knn | grep Ether -A2
+ 1386  </code></pre>
+ 1387  <p>The second of these (ethernet) was what I used, and I found:</p>
+ 1388  <pre><code>03:00.0 Ethernet controller [0200]: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller [10ec:8168] (rev 0c)
+ 1389          Subsystem: Hewlett-Packard Company RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller [103c:1944]
+ 1390          Kernel driver in use: r8169
+ 1391          Kernel modules: r8169
+ 1392  </code></pre>
+ 1393  <p>so i reloaded the 'r8169' driver:</p>
+ 1394  <pre><code>$ sudo rmmod r8169 &amp;&amp; sudo modprobe r8169
+ 1395  </code></pre>
+ 1396  <p>and voila! This worked.  My ethernet port / connection came back alive (after suspend/wakeup) without having to reboot.</p>
+ 1397  <p>(I also did NOT have a Realtek wifi device, but a Qualcomm Atheros (mod: ath9k) which perhaps explains why wifi continued to work for me after wake-from-suspend.)</p>
+ 1398  <p>As you can see from my comment on that other post, I wondered whether the problem is the common element between Buzhidao and myself: Realtek Semiconductor devices. Even though they use different modules, they might share some common code? Or even be treated differently by the newer kernel code now in some way?</p>
+ 1399  <p>Do you yourself have a Realtek-based wifi device? (using lspci above)?  Do you have any luck re-installing the module (rmmod/modprobe above)?</p>
+ 1400  <p>Anyway, just a shot in the dark. If you have found an eventual answer for yourself, please let us know! Thx.</p>
+ 1401      </div>
+ 1402      <div class="grid mb0 fw-wrap ai-start jc-end gs8 gsy">
+ 1403          <time itemprop="dateCreated" datetime="2017-03-16T22:40:41"></time>
+ 1404      <div class="grid--cell mr16" style="flex: 1 1 100px;">
+ 1405  <div class="post-menu"><a href="/a/893823" title="short permalink to this answer" class="short-link" itemprop="url" id="link-post-893823">share</a><span class="lsep">|</span><a href="/posts/893823/edit" class="suggest-edit-post" title="">improve this answer</a></div>                    </div>
+ 1406      <div class="post-signature grid--cell fl0">
+ 1407  <div class="user-info ">
+ 1408      <div class="user-action-time">
+ 1409          <a href="/posts/893823/revisions" title="show all edits to this post">edited <span title="2019-07-06 19:39:51Z" class="relativetime">Jul 6 at 19:39</span></a>
+ 1410      </div>
+ 1411      <div class="user-gravatar32">
+ 1412          <a href="/users/690429/noone"><div class="gravatar-wrapper-32"><img src="https://i.stack.imgur.com/NdcRa.png?s=32&amp;g=1" alt="" width="32" height="32"></div></a>
+ 1413      </div>
+ 1414      <div class="user-details">
+ 1415          <a href="/users/690429/noone">noone</a>
+ 1416          <div class="-flair">
+ 1417              <span class="reputation-score" title="reputation score " dir="ltr">929</span><span title="8 silver badges" aria-hidden="true"><span class="badge2"></span><span class="badgecount">8</span></span><span class="v-visible-sr">8 silver badges</span><span title="22 bronze badges" aria-hidden="true"><span class="badge3"></span><span class="badgecount">22</span></span><span class="v-visible-sr">22 bronze badges</span>
+ 1418          </div>
+ 1419      </div>
+ 1420  </div>    </div>
+ 1421              
+ 1422      <div class="post-signature grid--cell fl0">
+ 1423  <div class="user-info ">
+ 1424      <div class="user-action-time">
+ 1425          answered <span title="2017-03-16 22:40:41Z" class="relativetime">Mar 16 '17 at 22:40</span>
+ 1426  </div>
+ 1427  <a name="845775"></a>
+ 1428  <div id="answer-845775" class="answer" data-answerid="845775" itemprop="suggestedAnswer" itemscope="" itemtype="http://schema.org/Answer">
+ 1429  <div class="js-voting-container grid fd-column ai-stretch gs4 fc-black-200" data-post-id="845775">
+ 1430  </div>
+ 1431  <div class="answercell post-layout--right">
+ 1432  <p>To auto-restart NetworkManager after resume in an environment without <code>sudo</code> access, create a script in <code>/etc/pm/sleep.d</code> (any name), set the executable bit via <code>chmod +x</code>, and insert the following content:</p>
+ 1433  <pre><code>case "${1}" in
+ 1434  ;;
+ 1435  esac
+ 1436  </code></pre>
+ 1437  <p>For me, the <code>service</code> line worked, but <code>systemctl</code> may work better for you.</p>
+ 1438  <p>Source: <a href="https://askubuntu.com/a/92235/30266">https://askubuntu.com/a/92235/30266</a>.</p>
+ 1439  <div class="post-menu"><a href="/a/845775" title="short permalink to this answer" class="short-link" itemprop="url" id="link-post-845775">share</a><span class="lsep">|</span><a href="/posts/845775/edit" class="suggest-edit-post" title="">improve this answer</a></div>                    </div>
+ 1440  <div class="user-info user-hover">
+ 1441  </div>
+ 1442  <a name="862734"></a>
+ 1443  <div id="answer-862734" class="answer" data-answerid="862734" itemprop="suggestedAnswer" itemscope="" itemtype="http://schema.org/Answer">
+ 1444  <div class="js-voting-container grid fd-column ai-stretch gs4 fc-black-200" data-post-id="862734">
+ 1445  </div>
+ 1446  <div class="answercell post-layout--right">
+ 1447  <p>For me it seems to be random, but sometimes the wifi just disconnects if I'm connected, or doesn't show networks if I'm not. Sometimes putting my laptop into sleep mode seems to trigger it, but not always.</p>
+ 1448  <p>Some combination of these usually gets it going again without rebooting:</p>
+ 1449  <ul>
+ 1450  <li><code>sudo iwlist $(ifconfig | grep -Po '^w\w+') scan</code></li>
+ 1451  <li><code>sudo service network-manager stop; sleep 5; sudo service network-manager start</code>
+ 1452  <ul>
+ 1453  <li>Simply calling <code>restart</code> here never seems to work for me. It looks like it tries to start it up before it's finished shutting it down, hence I have more luck pausing between <code>stop</code> and <code>start</code>.</li>
+ 1454  </ul></li>
+ 1455  <li>Turn off wifi in UI; wait a few seconds; turn it back on</li>
+ 1456  </ul>
+ 1457  <p>None of those seems to consistently work, but I listed them in order of most-likely-to-succeed first.</p>
+ 1458  <div class="post-menu"><a href="/a/862734" title="short permalink to this answer" class="short-link" itemprop="url" id="link-post-862734">share</a><span class="lsep">|</span><a href="/posts/862734/edit" class="suggest-edit-post" title="">improve this answer</a></div>                    </div>
+ 1459  <div class="user-info ">
+ 1460  </div>    </div>
+ 1461  <div class="user-info ">
+ 1462  </div>    </div>
+ 1463  <div class="user-info ">
+ 1464  </div>    </div>
+ 1465  <div class="user-info ">
+ 1466  </div>
+ 1467  <a name="901515"></a>
+ 1468  <div id="answer-901515" class="answer" data-answerid="901515" itemprop="suggestedAnswer" itemscope="" itemtype="http://schema.org/Answer">
+ 1469  <div class="js-voting-container grid fd-column ai-stretch gs4 fc-black-200" data-post-id="901515">
+ 1470  </div>
+ 1471  <div class="answercell post-layout--right">
+ 1472  <p>For me the solution was to run</p>
+ 1473  <pre><code>nmcli nm sleep false
+ 1474  </code></pre>
+ 1475  <p>in a terminal</p>
+ 1476  <div class="post-menu"><a href="/a/901515" title="short permalink to this answer" class="short-link" itemprop="url" id="link-post-901515">share</a><span class="lsep">|</span><a href="/posts/901515/edit" class="suggest-edit-post" title="">improve this answer</a></div>                    </div>
+ 1477  <div class="user-info ">
+ 1478  </div>
+ 1479  <a name="1062495"></a>
+ 1480  <div id="answer-1062495" class="answer" data-answerid="1062495" itemprop="suggestedAnswer" itemscope="" itemtype="http://schema.org/Answer">
+ 1481  <div class="js-voting-container grid fd-column ai-stretch gs4 fc-black-200" data-post-id="1062495">
+ 1482  </div>
+ 1483  <div class="answercell post-layout--right">
+ 1484  <p>Now probably simple</p>
+ 1485  <pre><code>sudo apt update
+ 1486  sudo apt upgrade
+ 1487  wrapper-32"><img src="https://www.gravatar.com/avatar/65f71218cef5ac99acbfc45fa3a9a531?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"></div></a>
+ 1488      </div>
+ 1489      <div class="user-details" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+ 1490          <a href="/users/614907/daniel">Daniel</a><span class="d-none" itemprop="name">Daniel</span>
+ 1491          <div class="-flair">
+ 1492              <span class="reputation-score" title="reputation score " dir="ltr">192</span><span title="2 silver badges" aria-hidden="true"><span class="badge2"></span><span class="badgecount">2</span></span><span class="v-visible-sr">2 silver badges</span><span title="10 bronze badges" aria-hidden="true"><span class="badge3"></span><span class="badgecount">10</span></span><span class="v-visible-sr">10 bronze badges</span>
+ 1493          </div>
+ 1494      </div>
+ 1495  </div>
+ 1496      </div>
+ 1497      </div>
+ 1498      
+ 1499  </div>
+ 1500      
+ 1501      <div class="post-layout--right">
+ 1502          <div id="comments-1062495" class="comments js-comments-container  dno" data-post-id="1062495" data-min-length="15">
+ 1503              <ul class="comments-list js-comments-list" data-remaining-comments-count="0" data-canpost="false" data-cansee="true" data-comments-unavailable="false" data-addlink-disabled="true">
+ 1504              </ul>
+ 1505      </div>
+ 1506          <div id="comments-link-1062495" data-rep="50" data-anon="true">
+ 1507                  <a class="js-add-link comments-link disabled-link " title="Use comments to ask for more information or suggest improvements. Avoid comments like “+1” or “thanks”.">add a comment</a><span class="js-link-separator dno">&nbsp;|&nbsp;</span>
+ 1508              <a class="js-show-link comments-link dno" title="expand to show all comments on this post" href="#" onclick=""></a>
+ 1509          </div>         
+ 1510      </div>    </div>
+ 1511  </div>
+ 1512      <div class="question-status">
+ 1513          <h2>                    <b>protected</b> by <a href="/users/-1/community">Community</a><span class="mod-flair" title="moderator">♦</span> <span dir="ltr"><span title="2016-05-04 14:56:29Z" class="relativetime">May 4 '16 at 14:56</span></span>
+ 1514  </h2>
+ 1515          <p>
+ 1516  Thank you for your interest in this question. 
+ 1517  Because it has attracted low-quality or spam answers that had to be removed, posting an answer now requires 10 <a href="/help/whats-reputation">reputation</a> on this site (the <a href="/help/privileges/new-user">association bonus does not count</a>).
+ 1518  <br><br>
+ 1519  Would you like to answer one of these <a href="/unanswered?fromProtectedNotice=true">unanswered questions</a> instead?</p>
+ 1520      </div>
+ 1521                          <h2 class="bottom-notice" data-loc="1">
+ 1522  Not the answer you're looking for?                            Browse other questions tagged <a href="/questions/tagged/networking" class="post-tag" title="show questions tagged 'networking'" rel="tag">networking</a> <a href="/questions/tagged/wireless" class="post-tag" title="show questions tagged 'wireless'" rel="tag">wireless</a> <a href="/questions/tagged/16.04" class="post-tag" title="show questions tagged '16.04'" rel="tag">16.04</a> <a href="/questions/tagged/gnome-classic" class="post-tag" title="show questions tagged 'gnome-classic'" rel="tag">gnome-classic</a>  or <a href="/questions/ask">ask your own question</a>.                        </h2>
+ 1523              </div>
+ 1524          </div>
+ 1525                  <div id="sidebar" class="show-votes" role="complementary" aria-label="sidebar">
+ 1526                              <div class="module question-stats">
+ 1527                      <table id="qinfo">
+ 1528                          <tbody><tr>
+ 1529                              <td>
+ 1530                                  <p class="label-key">asked</p>
+ 1531                              </td>
+ 1532                              <td style="padding-left: 10px">
+ 1533                                  <p class="label-key" title="2016-04-23 11:42:07Z">
+ 1534                                      <b>
+ 1535                                          <time itemprop="dateCreated" datetime="2016-04-23T11:42:07">3 years, 2 months ago</time>
+ 1536                                      </b>
+ 1537                                  </p>
+ 1538                              </td>
+ 1539                          </tr>
+ 1540                          <tr>
+ 1541                              <td>
+ 1542                                  <p class="label-key">viewed</p>
+ 1543                              </td>
+ 1544                              <td style="padding-left: 10px">
+ 1545                                  <p class="label-key">
+ 1546                                      <b>115,801 times</b>
+ 1547                                  </p>
+ 1548                              </td>
+ 1549                          </tr>
+ 1550                              <tr>
+ 1551                                  <td>
+ 1552                                      <p class="label-key">active</p>
+ 1553                                  </td>
+ 1554                                  <td style="padding-left: 10px">
+ 1555                                      <p class="label-key"><b><a href="?lastactivity" class="lastactivity-link" title="2019-07-06 19:39:51Z">12 days ago</a></b></p>
+ 1556                                  </td>
+ 1557                              </tr>
+ 1558                      </tbody></table>
+ 1559                  </div>
+ 1560              <div class="s-sidebarwidget s-sidebarwidget__yellow s-anchors s-anchors__default mb16" data-tracker="cb=1">
+ 1561              <div class="s-sidebarwidget--header s-sidebarwidget__small-bold-text">
+ 1562                  Blog
+ 1563              </div>
+ 1564          <ul class="s-sidebarwidget--content s-sidebarwidget__items pt0 pr16 pb0 pl16">
+ 1565      <li class="s-sidebarwidget--item grid">
+ 1566          <div class="grid--cell1 fl-shrink0">
+ 1567                  <a href="https://stackoverflow.blog/2019/07/16/google-looker-salesforce-tableau-bi-open-source-alternatives/?cb=1" data-ga="[&quot;community bulletin board&quot;,&quot;Blog&quot;,&quot;https://stackoverflow.blog/2019/07/16/google-looker-salesforce-tableau-bi-open-source-alternatives/&quot;,null,null]">
+ 1568  <div class="favicon favicon-stackexchangemeta" title="Meta Stack Exchange"></div>                </a>
+ 1569          </div>
+ 1570          <div class="grid--cell">
+ 1571              <a href="https://stackoverflow.blog/2019/07/16/google-looker-salesforce-tableau-bi-open-source-alternatives/?cb=1" title="Google got Looker. Salesforce bought Tableau. But open source tools are rising in popularity across the world of business intelligence and data analysis." data-ga="[&quot;community bulletin board&quot;,&quot;Blog&quot;,&quot;https://stackoverflow.blog/2019/07/16/google-looker-salesforce-tableau-bi-open-source-alternatives/&quot;,null,null]">Google got Looker. Salesforce bought Tableau. But open source tools are…</a>
+ 1572          </div>
+ 1573      </li>
+ 1574          </ul>
+ 1575          <ul class="s-sidebarwidget--content s-sidebarwidget__items pt0 pr16 pb0 pl16">
+ 1576      <li class="s-sidebarwidget--item grid">
+ 1577          <div class="grid--cell1 fl-shrink0">
+ 1578                  <a href="https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/?cb=1" data-ga="[&quot;community bulletin board&quot;,&quot;Blog&quot;,&quot;https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/&quot;,null,null]">
+ 1579  <div class="favicon favicon-stackexchangemeta" title="Meta Stack Exchange"></div>                </a>
+ 1580          </div>
+ 1581          <div class="grid--cell">
+ 1582              <a href="https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/?cb=1" data-ga="[&quot;community bulletin board&quot;,&quot;Blog&quot;,&quot;https://stackoverflow.blog/2019/07/18/building-community-inclusivity-stack-overflow/&quot;,null,null]">What a very bad day at work taught me about building Stack Overflow’s community</a>
+ 1583          </div>
+ 1584      </li>
+ 1585          </ul>
+ 1586              <div class="s-sidebarwidget--header s-sidebarwidget__small-bold-text">
+ 1587                  Featured on Meta
+ 1588              </div>
+ 1589          <ul class="s-sidebarwidget--content s-sidebarwidget__items pt0 pr16 pb0 pl16">
+ 1590      <li class="s-sidebarwidget--item grid">
+ 1591          <div class="grid--cell1 fl-shrink0">
+ 1592                  <a href="https://meta.stackexchange.com/questions/330326/custom-filters-release-announcement?cb=1" data-ga="[&quot;community bulletin board&quot;,&quot;Featured on Meta&quot;,&quot;https://meta.stackexchange.com/questions/330326/custom-filters-release-announcement&quot;,null,null]">
+ 1593  <div class="favicon favicon-stackexchangemeta" title="Meta Stack Exchange"></div>                </a>
+ 1594          </div>
+ 1595          <div class="grid--cell">
+ 1596              <a href="https://meta.stackexchange.com/questions/330326/custom-filters-release-announcement?cb=1" data-ga="[&quot;community bulletin board&quot;,&quot;Featured on Meta&quot;,&quot;https://meta.stackexchange.com/questions/330326/custom-filters-release-announcement&quot;,null,null]">Custom Filters release announcement</a>
+ 1597          </div>
+ 1598      </li>
+ 1599          </ul>
+ 1600          <ul class="s-sidebarwidget--content s-sidebarwidget__items pt0 pr16 pb0 pl16">
+ 1601      <li class="s-sidebarwidget--item grid">
+ 1602          <div class="grid--cell1 fl-shrink0">
+ 1603                  <a href="https://meta.stackexchange.com/questions/330400/unicorn-meta-zoo-5-interview-with-cesar-m?cb=1" data-ga="[&quot;community bulletin board&quot;,&quot;Featured on Meta&quot;,&quot;https://meta.stackexchange.com/questions/330400/unicorn-meta-zoo-5-interview-with-cesar-m&quot;,null,null]">
+ 1604  <div class="favicon favicon-stackexchangemeta" title="Meta Stack Exchange"></div>                </a>
+ 1605          </div>
+ 1606          <div class="grid--cell">
+ 1607              <a href="https://meta.stackexchange.com/questions/330400/unicorn-meta-zoo-5-interview-with-cesar-m?cb=1" data-ga="[&quot;community bulletin board&quot;,&quot;Featured on Meta&quot;,&quot;https://meta.stackexchange.com/questions/330400/unicorn-meta-zoo-5-interview-with-cesar-m&quot;,null,null]">Unicorn Meta Zoo #5: Interview with Cesar M</a>
+ 1608          </div>
+ 1609      </li>
+ 1610          </ul>
+ 1611  </div>
+ 1612  <div id="dfp-tsb" class="everyonelovesstackoverflow everyoneloves__top-sidebar" style="display: none;"></div>
+ 1613              <div id="hireme"></div>
+ 1614                  var clc = clc || {};
+ 1615                  clc.options = clc.options || {};
+ 1616                  clc.cmd = clc.cmd || [];
+ 1617                  clc.cmd.push(function () { window.clc_request='AkhcdoxdDNcIAAAAAFydCwAKAAAAAgAAAAApAAAAfG5ldHdvcmtpbmd8d2lyZWxlc3N8MTYuMDR8Z25vbWUtY2xhc3NpY3wAniRnZz2Av6BKYg'; clc.load(); });
+ 1618                                  clc.dfp = clc.dfp || {};
+ 1619                  clc.dfp.targeting = {Registered:['false'],'ron-tag':['networking','wireless','16.04','gnome-classic'],Community:['true']};
+ 1620                  
+ 1621                  var googletag = googletag || {};
+ 1622                  googletag.cmd = googletag.cmd || [];
+ 1623                  googletag.cmd.push(function () { clc.dfp.load(); });
+ 1624              </script>
+ 1625              <div class="module sidebar-linked">
+ 1626  <h4 id="h-linked">Linked</h4>
+ 1627  <div class="linked" data-tracker="lq=1">
+ 1628  <div class="spacer">
+ 1629  <a href="https://askubuntu.com/q/826103?lq=1" title="Vote score (upvotes - downvotes)">
+ 1630  <div class="answer-votes  default">0</div>
+ 1631  </a>
+ 1632  <a href="https://askubuntu.com/questions/826103/wi-fi-not-working-in-ubuntu-16-04?noredirect=1&amp;lq=1" class="question-hyperlink">Wi-Fi not working in Ubuntu 16.04</a>
+ 1633  </div>
+ 1634  <div class="spacer">
+ 1635  <a href="https://askubuntu.com/q/844942?lq=1" title="Vote score (upvotes - downvotes)">
+ 1636  <div class="answer-votes  default">1</div>
+ 1637  </a>
+ 1638  <a href="https://askubuntu.com/questions/844942/wifi-wont-connect-after-suspend-ubuntu-16-04?noredirect=1&amp;lq=1" class="question-hyperlink">Wifi won't connect after suspend Ubuntu 16.04</a>
+ 1639  </div>
+ 1640  <div class="spacer">
+ 1641  <a href="https://askubuntu.com/q/1017688?lq=1" title="Vote score (upvotes - downvotes)">
+ 1642  <div class="answer-votes  default">1</div>
+ 1643  </a>
+ 1644  <a href="https://askubuntu.com/questions/1017688/wifi-does-not-work-after-waking-from-suspend?noredirect=1&amp;lq=1" class="question-hyperlink">Wifi does not work after waking from suspend</a>
+ 1645  </div>
+ 1646  <div class="spacer">
+ 1647  <a href="https://askubuntu.com/q/762198?lq=1" title="Vote score (upvotes - downvotes)">
+ 1648  <div class="answer-votes answered-accepted large">120</div>
+ 1649  </a>
+ 1650  <a href="https://askubuntu.com/questions/762198/16-04-lts-wifi-connection-issues-with-realtek-rtl8723be-adapter?noredirect=1&amp;lq=1" class="question-hyperlink">16.04 LTS wifi connection issues with Realtek RTL8723BE adapter</a>
+ 1651  </div>
+ 1652  <div class="spacer">
+ 1653  <a href="https://askubuntu.com/q/452826?lq=1" title="Vote score (upvotes - downvotes)">
+ 1654  <div class="answer-votes  default">79</div>
+ 1655  </a>
+ 1656  <a href="https://askubuntu.com/questions/452826/wireless-networking-not-working-after-resume-in-ubuntu-14-04?noredirect=1&amp;lq=1" class="question-hyperlink">Wireless networking not working after resume in Ubuntu 14.04</a>
+ 1657  </div>
+ 1658  <div class="spacer">
+ 1659  <a href="https://askubuntu.com/q/769521?lq=1" title="Vote score (upvotes - downvotes)">
+ 1660  <div class="answer-votes  default">26</div>
+ 1661  </a>
+ 1662  <a href="https://askubuntu.com/questions/769521/wifi-networks-are-not-showing-in-ubuntu-16-04?noredirect=1&amp;lq=1" class="question-hyperlink">Wifi networks are not showing in Ubuntu 16.04</a>
+ 1663  </div>
+ 1664  <div class="spacer">
+ 1665  <a href="https://askubuntu.com/q/787023?lq=1" title="Vote score (upvotes - downvotes)">
+ 1666  <div class="answer-votes  default">20</div>
+ 1667  </a>
+ 1668  <a href="https://askubuntu.com/questions/787023/bluetooth-not-working-on-ubuntu-16-04-lts?noredirect=1&amp;lq=1" class="question-hyperlink">Bluetooth not working on Ubuntu 16.04 LTS</a>
+ 1669  </div>
+ 1670  <div class="spacer">
+ 1671  <a href="https://askubuntu.com/q/92218?lq=1" title="Vote score (upvotes - downvotes)">
+ 1672  <div class="answer-votes answered-accepted default">43</div>
+ 1673  </a>
+ 1674  <a href="https://askubuntu.com/questions/92218/how-to-execute-a-command-after-resume-from-suspend?noredirect=1&amp;lq=1" class="question-hyperlink">how to execute a command after resume from suspend?</a>
+ 1675  </div>
+ 1676  <div class="spacer">
+ 1677  <a href="https://askubuntu.com/q/1022203?lq=1" title="Vote score (upvotes - downvotes)">
+ 1678  <div class="answer-votes answered-accepted default">14</div>
+ 1679  </a>
+ 1680  <a href="https://askubuntu.com/questions/1022203/how-to-prevent-wifi-sleep-after-suspend?noredirect=1&amp;lq=1" class="question-hyperlink">How to prevent wifi sleep after suspend</a>
+ 1681  </div>
+ 1682  <div class="spacer">
+ 1683  <a href="https://askubuntu.com/q/53308?lq=1" title="Vote score (upvotes - downvotes)">
+ 1684  <div class="answer-votes answered-accepted default">7</div>
+ 1685  </a>
+ 1686  <a href="https://askubuntu.com/questions/53308/remove-shutdown-suspend-restart-and-hibernate-from-the-user-switcher-menu?noredirect=1&amp;lq=1" class="question-hyperlink">Remove Shutdown, Suspend, Restart, and Hibernate from the user switcher menu</a>
+ 1687  </div><div class="spacer more">
+ 1688  <a href="https://askubuntu.com/questions/linked/761180?lq=1">see more linked questions…</a>
+ 1689  </div>
+ 1690  </div>
+ 1691  </div>
+ 1692                  <div class="module sidebar-related">
+ 1693                      <h4 id="h-related">Related</h4>
+ 1694                      <div class="related js-gps-related-questions" data-tracker="rq=1">
+ 1695                          <div class="spacer js-gps-track"><a href="https://askubuntu.com/q/32514?rq=1" title="Vote score (upvotes - downvotes)"><div class="answer-votes answered-accepted default">2</div></a><a href="https://askubuntu.com/questions/32514/fixing-ip-renewal-after-laptop-suspend?rq=1" class="question-hyperlink">Fixing IP Renewal After Laptop Suspend</a></div><div class="spacer js-gps-track"><a href="https://askubuntu.com/q/126948?rq=1" title="Vote score (upvotes - downvotes)"><div class="answer-votes default">1</div></a><a href="https://askubuntu.com/questions/126948/volume-icon-disappeared-in-the-classic-desktop-again?rq=1" class="question-hyperlink">Volume icon disappeared in the classic desktop. Again</a></div><div class="spacer js-gps-track"><a href="https://askubuntu.com/q/489250?rq=1" title="Vote score (upvotes - downvotes)"><div class="answer-votes default">1</div></a><a href="https://askubuntu.com/questions/489250/laptop-cant-reconnect-to-new-wifi-hub-after-suspend?rq=1" class="question-hyperlink">Laptop can't reconnect to new wifi hub after suspend</a></div><div class="spacer js-gps-track"><a href="https://askubuntu.com/q/710345?rq=1" title="Vote score (upvotes - downvotes)"><div class="answer-votes default">0</div></a><a href="https://askubuntu.com/questions/710345/after-upgrade-to-15-10-only-connects-to-some-wifi-networks?rq=1" class="question-hyperlink">After upgrade to 15.10, only connects to some wifi networks</a></div><div class="spacer js-gps-track"><a href="https://askubuntu.com/q/770563?rq=1" title="Vote score (upvotes - downvotes)"><div class="answer-votes answered-accepted default">4</div></a><a href="https://askubuntu.com/questions/770563/16-04-lts-all-wifi-connectivity-lost-when-changing-wifi-networks?rq=1" class="question-hyperlink">16.04 LTS - all wifi connectivity lost when changing wifi networks</a></div><div class="spacer js-gps-track"><a href="https://askubuntu.com/q/797702?rq=1" title="Vote score (upvotes - downvotes)"><div class="answer-votes default">0</div></a><a href="https://askubuntu.com/questions/797702/wifi-connections-lost-on-suspend?rq=1" class="question-hyperlink">Wifi connections lost on suspend</a></div><div class="spacer js-gps-track"><a href="https://askubuntu.com/q/849178?rq=1" title="Vote score (upvotes - downvotes)"><div class="answer-votes default">0</div></a><a href="https://askubuntu.com/questions/849178/why-does-my-laptop-wifi-not-work-after-it-wakes-from-suspend?rq=1" class="question-hyperlink">Why does my laptop wifi not work after it wakes from suspend?</a></div><div class="spacer js-gps-track"><a href="https://askubuntu.com/q/949389?rq=1" title="Vote score (upvotes - downvotes)"><div class="answer-votes default">2</div></a><a href="https://askubuntu.com/questions/949389/yet-another-wifi-issue-after-suspend-in-ubuntu-16-04?rq=1" class="question-hyperlink">(Yet another) Wifi issue after suspend in Ubuntu 16.04</a></div><div class="spacer js-gps-track"><a href="https://askubuntu.com/q/1004961?rq=1" title="Vote score (upvotes - downvotes)"><div class="answer-votes default">2</div></a><a href="https://askubuntu.com/questions/1004961/wifi-fails-after-suspend-or-hibernate?rq=1" class="question-hyperlink">WiFi fails after suspend or hibernate</a></div><div class="spacer js-gps-track"><a href="https://askubuntu.com/q/1114321?rq=1" title="Vote score (upvotes - downvotes)"><div class="answer-votes default">2</div></a><a href="https://askubuntu.com/questions/1114321/manually-disable-wifi-before-suspend?rq=1" class="question-hyperlink">Manually Disable Wifi before suspend</a></div>
+ 1696  <div id="hot-network-questions" class="module tex2jax_ignore">
+ 1697  </div>
+ 1698  <script>StackExchange.ready(function(){$.get('/posts/761180/ivc/229b');});</script>
+ 1699  <noscript><div><img src="/posts/761180/ivc/229b" class="dno" alt="" width="0" height="0"></div></noscript><div style="display:none" id="prettify-lang"></div></div>
+ 1700  lspci -knn | grep Ether -A2
+ 1701  sudo rmmod r8169 && sudo modprobe r8169
+ 1702  lspci -knn | grep Net -A2
+ 1703  sudo rmmod ath10k_pci && sudo modprobe ath10k_pci
+ 1704  sudo iwlist $(ifconfig | grep -Po '^w\w+') scan
+ 1705  sudo service network-manager stop; sleep 5; sudo service network-manager start
+ 1706  sudo ifconfig eno1 up
+ 1707  ifconfig
+ 1708  gedit /etc/modprobe.d
+ 1709  sudo rm /etc/modprobe.d/blacklist-bcm43.conf
+ 1710  gksudo gedit  any-file-found-with-b43
+ 1711  sudo apt install gfarm-client
+ 1712  gksudo gedit  any-file-found-with-b43
+ 1713  sudo gedit  any-file-found-with-b43
+ 1714  sudo apt-get install firmware-b43-installer
+ 1715  sudo modprobe b43
+ 1716  sudo lsmod | sort
+ 1717  cd build
+ 1718  sudo make 
+ 1719  clear
+ 1720  sudo make 
+ 1721  clear
+ 1722  sudo make 
+ 1723  clear
+ 1724  sudo make 
+ 1725  cd build
+ 1726  sudo make 
+ 1727  clear
+ 1728  sudo make 
+ 1729  clear
+ 1730  sudo make 
+ 1731  clear
+ 1732  sudo make 
+ 1733  clear
+ 1734  sudo make 
+ 1735  clear
+ 1736  sudo make 
+ 1737  clear
+ 1738  sudo make 
+ 1739  cd build
+ 1740  sudo make 
+ 1741  clear
+ 1742  sudo make 
+ 1743  clear
+ 1744  sudo make 
+ 1745  clear
+ 1746  sudo make 
+ 1747  clear
+ 1748  sudo make 
+ 1749  clear
+ 1750  sudo make 
+ 1751  clear
+ 1752  sudo make 
+ 1753  clear
+ 1754  sudo make 
+ 1755  clear
+ 1756  sudo make 
+ 1757  clear
+ 1758  sudo make 
+ 1759  clear
+ 1760  sudo make 
+ 1761  clear
+ 1762  sudo make 
+ 1763  clear
+ 1764  sudo make 
+ 1765  clear
+ 1766  sudo make 
+ 1767  clear
+ 1768  sudo make 
+ 1769  clear
+ 1770  sudo make 
+ 1771  clear
+ 1772  sudo make 
+ 1773  clear
+ 1774  sudo make 
+ 1775  clear
+ 1776  sudo make 
+ 1777  clear
+ 1778  sudo make 
+ 1779  clear
+ 1780  sudo make 
+ 1781  clear
+ 1782  sudo make 
+ 1783  clear
+ 1784  sudo make 
+ 1785  clear
+ 1786  sudo make 
+ 1787  clear
+ 1788  sudo make 
+ 1789  clear
+ 1790  sudo make 
+ 1791  clear
+ 1792  sudo make 
+ 1793  clear
+ 1794  sudo make 
+ 1795  clear
+ 1796  sudo make 
+ 1797  clear
+ 1798  sudo make 
+ 1799  clear
+ 1800  sudo make 
+ 1801  clear
+ 1802  sudo make 
+ 1803  clear
+ 1804  sudo make 
+ 1805  clear
+ 1806  sudo make 
+ 1807  clear
+ 1808  sudo make 
+ 1809  clear
+ 1810  sudo make 
+ 1811  g++ Binance.h -E binance.i
+ 1812  g++ ../src/Binance.h -E binance.i
+ 1813  g++ ../src/Binance.h -E -o binance.i
+ 1814  sudo make 
+ 1815  clear
+ 1816  sudo make 
+ 1817  cd build
+ 1818  sudo make 
+ 1819  make clean
+ 1820  sudo make 
+ 1821  qmace
+ 1822  make clean
+ 1823  rm Makefile
+ 1824  make
+ 1825  sudo make
+ 1826  clear
+ 1827  sudo make
+ 1828  clear
+ 1829  sudo make
+ 1830  cmake
+ 1831  sudo cmake
+ 1832  sudo make
+ 1833  cmake ..
+ 1834  sudo cmake ..
+ 1835  sudo make
+ 1836  sudo cmake ..
+ 1837  sudo make
+ 1838  sudo cmake ..
+ 1839  sudo make
+ 1840  sudo cmake ..
+ 1841  ./websocket-client-mbedtls-exe 
+ 1842  sudo cmake ..
+ 1843  sudo make
+ 1844  ./websocket-client-mbedtls-exe 
+ 1845  sudo make
+ 1846  ./websocket-client-mbedtls-exe 
+ 1847  sudo make
+ 1848  ./websocket-client-mbedtls-exe 
+ 1849  sudo make
+ 1850  clear
+ 1851  sudo make
+ 1852  clear
+ 1853  sudo make
+ 1854  ./websocket-client-mbedtls-exe 
+ 1855  sudo make
+ 1856  ./websocket-client-mbedtls-exe 
+ 1857  sudo make
+ 1858  ./websocket-client-mbedtls-exe 
+ 1859  sudo make
+ 1860  clear
+ 1861  sudo make
+ 1862  ./websocket-client-mbedtls-exe 
+ 1863  sudo make
+ 1864  ./websocket-client-mbedtls-exe 
+ 1865  cd build
+ 1866  sudo make
+ 1867  clear
+ 1868  sudo make
+ 1869  clear
+ 1870  sudo make
+ 1871  clear
+ 1872  sudo make
+ 1873  clear
+ 1874  sudo make
+ 1875  ./websocket-client-mbedtls-exe 
+ 1876  sudo make
+ 1877  ./websocket-client-mbedtls-exe 
+ 1878  sudo make
+ 1879  ./websocket-client-mbedtls-exe 
+ 1880  sudo make
+ 1881  ./websocket-client-mbedtls-exe 
+ 1882  sudo make
+ 1883  ./websocket-client-mbedtls-exe 
+ 1884  sudo make
+ 1885  ./websocket-client-mbedtls-exe 
+ 1886  sudo make
+ 1887  ./websocket-client-mbedtls-exe 
+ 1888  sudo make
+ 1889  ./websocket-client-mbedtls-exe 
+ 1890  sudo make
+ 1891  ./websocket-client-mbedtls-exe 
+ 1892  sudo make
+ 1893  ./websocket-client-mbedtls-exe 
+ 1894  sudo make
+ 1895  cd build
+ 1896  sudo make
+ 1897  ./websocket-client-mbedtls-exe 
+ 1898  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1899  sudo make
+ 1900  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1901  clear
+ 1902  sudo make
+ 1903  clear
+ 1904  sudo make
+ 1905  clear
+ 1906  sudo make
+ 1907  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1908  sudo make
+ 1909  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1910  sudo make
+ 1911  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1912  sudo make
+ 1913  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1914  sudo make
+ 1915  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1916  sudo make
+ 1917  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1918  sudo make
+ 1919  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1920  sudo make
+ 1921  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1922  sudo make
+ 1923  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1924  sudo make
+ 1925  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1926  sudo make
+ 1927  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1928  clear
+ 1929  sudo make
+ 1930  clear
+ 1931  sudo make
+ 1932  clear
+ 1933  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1934  clear
+ 1935  sudo make
+ 1936  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1937  sudo make
+ 1938  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1939  sudo make
+ 1940  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 3 hitbtc ETHBTC 14 ETHBTC 16
+ 1941  sudo make
+ 1942  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 2 hitbtc ETHBTC 0 ETHBTC 1
+ 1943  sudo make
+ 1944  clear
+ 1945  sudo make
+ 1946  clear
+ 1947  sudo make
+ 1948  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 2 hitbtc ETHBTC 0 ETHBTC 1
+ 1949  sudo make
+ 1950  ./websocket-client-mbedtls-exe binance ethbtc 0 ethbtc 1 gate ETH_BTC 2 hitbtc ETHBTC 0 ETHBTC 1
+ 1951  git add .
+ 1952  git commit -m "Add reading from command line"
+ 1953  git push -f
+ 1954  cd build
+ 1955  sudo make
+ 1956  cmake
+ 1957  sudo cmake ..
+ 1958  sudo make
+ 1959  sudo cmake ..
+ 1960  sudo make
+ 1961  sudo cmake ..
+ 1962  sudo make
+ 1963  sudo cmake ..
+ 1964  sudo make
+ 1965  cd list
+ 1966  ls
+ 1967  cd Desktop/
+ 1968  cd OSlabs/
+ 1969  git clone
+ 1970  git clone https://github.com/julia953197/OSlabs
+ 1971  cd week1
+ 1972  ls
+ 1973  cd 
+ 1974  cd Desktop
+ 1975  cd OS/OSlabs/week1/
+ 1976  cd
+ 1977  ls
+ 1978  cd /usr/bin
+ 1979  ls >~/Desktop/OS/OSlabs/week1/ex1.txt
+ 1980  grep gcc ~/Desktop/OS/OSlabs/week1/ex1.txt >~/Desktop/OS/OSlabs/week1/ex11.txt 
+ 1981  grep gcc ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt -R 
+ 1982  grep gcc ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt -r 
+ 1983  ls ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt -r 
+ 1984  grep gcc ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt -r 
+ 1985  grep gcc ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt | sort -r|  -r
+ 1986  grep gcc ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt | sort -r|  ls
+ 1987  grep gcc ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt ls | sort -r| sort -r
+ 1988  grep gcc ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt ls -r
+ 1989  grep gcc -r~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt
+ 1990  grep gcc -r ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt
+ 1991  grep gcc -l ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt
+ 1992  grep gcc -R ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt
+ 1993  sort -r ~/Desktop/OS/OSlabs/week1/ex1.txt
+ 1994  sort -r ~/Desktop/OS/OSlabs/week1/ex11.txt >~/Desktop/OS/OSlabs/week1/ex1.txt
+ 1995  cd
+ 1996  cd Desktop/OS/
+ 1997  git add .
+ 1998  ls
+ 1999  cd OSlabs/
+ 2000  git add .
+ 2001  git commit "week 1.1"
+ 2002  git commit-m "week 1.1"
+ 2003  git commit -m "week 1.1"
+ 2004  git push
+ 2005  cd week1/
+ 2006  pwd
+ 2007  history >ex2.txt
