@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int n=100;
+    int n=10;
     int pid=fork();
     if(pid != 0)
 		printf("hello from parent %d - %d\n", pid, n);
