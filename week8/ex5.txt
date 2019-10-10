@@ -1,0 +1,2 @@
+A physical address is a direct, fixed place in physical memory.
+A virtual address is an address that should be translated to get a direct address of physical memory.
