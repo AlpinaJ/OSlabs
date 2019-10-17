@@ -1,0 +1,2 @@
+If we want to increase perfomance, we need to sort the input file(if there are duplicates we don't need to delete something).
+If we want to decrease perfomance, we need to sort in such way that there are no equal element near ecah other.
