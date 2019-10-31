@@ -1,0 +1,2 @@
+In the first case buffer is not full, so it will be flushed at the end of the process, so string will be printed twice.
+In the second case '\n' flushes the buffer, so "Hello" will be printed only once.
