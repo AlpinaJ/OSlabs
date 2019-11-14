@@ -1,0 +1,4 @@
+RECOVERY:
+    1) Through preemption - when you can take a resource away from a processes and use it and then return it back.
+    2) Through rollback - when OS makes checkpoints and then in case of deadlock return back to earlier state when there's no deadlock.
+    3) Through killing processes - the simplest way to break a deadlock.
